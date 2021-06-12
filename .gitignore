@@ -1,0 +1,6 @@
+# Files to ignore 
+
+.RData
+.Rhistory
+MechaCar_mpg.csv
+Suspension_Coil.csv
