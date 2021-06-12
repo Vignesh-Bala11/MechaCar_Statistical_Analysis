@@ -18,14 +18,19 @@ Purpose of the analysis is to provide insigth on MechaCar's production to aid th
 
 Summary of Results:
 
+![LM-MechCar](https://user-images.githubusercontent.com/57723459/121789143-82d36f80-cba1-11eb-8b52-7ebd2e536b2a.png)
 
 ## Summary Statistics on Suspension Coils:
 Looking at the total summary, the current variance is approximately 76.23 PSI meaning that is does meet the design specification. When looking at the lots individuals, the first two lotas meet the design specification at a varaince of approximately 1.14 PSI and 10.13 PSI respectfully, but the third lot does not. This is becasue the third lot's variance is approximately 220.01 PSI, exceeding the design specification by more than double the alotted amount. Therefore, the manufacturing team should work with the cars in lots 1 and 2 compared to those in lot 3.
 
 Total Summary:
 
+![total-sum](https://user-images.githubusercontent.com/57723459/121789148-9252b880-cba1-11eb-8795-67b2b9c00f62.png)
+
 
 Lot Summary:
+
+![lot-sum](https://user-images.githubusercontent.com/57723459/121789153-9c74b700-cba1-11eb-8f4e-ae93b37ad8e8.png)
 
 
 ## T-tests on Suspension Coils:
@@ -36,12 +41,19 @@ Results:
 
 Total Lots T-test:
 
+![total-sum-t-test](https://user-images.githubusercontent.com/57723459/121789156-a5fe1f00-cba1-11eb-84c0-7dddc983a2ef.png)
+
+
 Lot 1 T-test:
+
+![lot1-t-test](https://user-images.githubusercontent.com/57723459/121789157-a991a600-cba1-11eb-81a2-0369171bbc25.png)
 
 Lot 2 T-test:
 
-Lot 3 T-test:
+![lot2-t-test](https://user-images.githubusercontent.com/57723459/121789161-ad252d00-cba1-11eb-83f9-771847abee26.png)
 
+Lot 3 T-test:
+![lot3-t-test](https://user-images.githubusercontent.com/57723459/121789166-b2827780-cba1-11eb-8293-d9f5051a156e.png)
 
 ## Study Design: MechaCar vs Competition 
 To design a study to see how Mechacar preforms against the competion the following questions are proposed:
